@@ -1,0 +1,15 @@
+drop table appointments;
+drop table feedbacks;
+drop table clients;
+drop table identity_cards;
+drop table computers;
+drop table computer_configurations;
+drop table rooms;
+drop sequence APPOINTMENT_ID_SEQ;
+drop sequence COMPUTER_CFG_SEQ;
+drop sequence COMPUTER_ID_SEQ;
+drop sequence EMPLOYEE_ID_SEQ;
+drop sequence FEEDBACKS_FEEDBACKS_PK_SEQ;
+drop sequence IDENTITY_CARDS_ID_SEQ;
+drop sequence ROOM_ID_SEQ;
+drop sequence USER_ID_SEQ;
